@@ -59,10 +59,8 @@ We bieden sjablonen aan om je te helpen je oplossing te delen zodra je deze op h
 
 Hoe specifieker je vragen zijn, hoe groter de kans dat een ander lid van de community je feedback geeft.
 
-## Heb je feedback voor ons?
+## Hoe ziet zo'n project eruit?
 
-We ontvangen graag feedback! We zijn altijd op zoek naar manieren om onze uitdagingen en ons platform te verbeteren. Dus als je iets wilt melden, stuur dan een e-mail naar hi[at]frontendmentor[dot]io.
-
-Deze uitdaging is volledig gratis. Deel hem gerust met iedereen die hem nuttig vindt om te oefenen.
+Ik heb in de map project-voorbeeld een voorbeeld van het loopstudio-project. Aan de hand van de deze gegevens is het dus de bedoeling om die index.html zo te stylen dat het overeenkomt met de bijgeleverde afbeeldingen.
 
 **Veel plezier met bouwen!** 🚀
